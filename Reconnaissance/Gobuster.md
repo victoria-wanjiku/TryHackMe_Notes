@@ -60,4 +60,4 @@ Backup files (/backup)
 
 Login portals (/login)
 
-![Gobuster Output](..Images/Gobuster_output.png)
+![Gobuster Output](../Images/Gobuster_output.png)
