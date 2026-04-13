@@ -58,4 +58,4 @@ Operators help chain commands and manage output efficiently.
 
 This session helped me build a strong foundation in Linux command-line usage. I am now more comfortable navigating the terminal and using commands to interact with the system, which is crucial for my journey in cybersecurity and penetration testing.
 
-![linux Output](../Images/Linux basic commands and operatord.png)
+![linux Output](../Images/Linux_basics.png)
